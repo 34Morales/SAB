@@ -1,0 +1,1 @@
+"""Company master data module."""
